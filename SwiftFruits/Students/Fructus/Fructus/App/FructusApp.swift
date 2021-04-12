@@ -15,7 +15,7 @@ struct FructusApp: App {
             if isOnboarding {
             OnboardingView()
             } else {
-                ContentView()
+            ContentView()
             }
         }
     }
