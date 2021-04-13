@@ -20,7 +20,7 @@ Click the play button on the top left corner of Xcode to run a simulated version
 
 **Project in action** 
 
-<img width="30000" src='./public/homescreen.png'/>
+<img src='./public/homescreen.png'/>
 <img src='./public/listview.png'/>
 <img src='./public/settingsview.png'/>
 <img src='./public/detailview.png'/>
