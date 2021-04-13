@@ -1,1 +1,1 @@
-Save your Xcode project into this folder.
+My Xcode project has been saved into this folder.
