@@ -22,11 +22,7 @@ struct SettingsView_view: View {
                     
                     GroupBox(
                         label:
-                            HStack {
-                                Text("Fructus".uppercased()).fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
-                                Spacer()
-                                Image(systemName: "info.circle")
-                            }
+                            SettingsLabelView(labelText: "Fructus", labelImage: "info.circle")
                     ) {
                         Text("Hello, World!")
                     }
