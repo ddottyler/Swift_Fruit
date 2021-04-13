@@ -20,4 +20,4 @@ Click the play button on the top left corner of Xcode to run a simulated version
 
 **Project in action** 
 
-<img src='./screenshots/homescreen.png'/>
+<img src='./Screenshots/homescreen.png'/>
