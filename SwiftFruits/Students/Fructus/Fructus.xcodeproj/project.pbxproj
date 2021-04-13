@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0920A0526258DBD00849823 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0920A0426258DBD00849823 /* FruitDetailView.swift */; };
 		A0CAC899262485EF001E8ADC /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0CAC898262485EF001E8ADC /* FruitCardView.swift */; };
 		A0CAC89C26248B1F001E8ADC /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0CAC89B26248B1F001E8ADC /* StartButtonView.swift */; };
 		A0CAC89F26248E62001E8ADC /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0CAC89E26248E62001E8ADC /* OnboardingView.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A0920A0426258DBD00849823 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		A0CAC898262485EF001E8ADC /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		A0CAC89B26248B1F001E8ADC /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		A0CAC89E26248E62001E8ADC /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 				A0DE68F1262479D000EE8550 /* FructusApp.swift */,
 				A0DE68F3262479D000EE8550 /* ContentView.swift */,
 				A0CAC89E26248E62001E8ADC /* OnboardingView.swift */,
+				A0920A0426258DBD00849823 /* FruitDetailView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				A0CAC899262485EF001E8ADC /* FruitCardView.swift in Sources */,
 				A0CAC8AF26249D2A001E8ADC /* FruitRowView.swift in Sources */,
 				A0CAC89C26248B1F001E8ADC /* StartButtonView.swift in Sources */,
+				A0920A0526258DBD00849823 /* FruitDetailView.swift in Sources */,
 				A0DE68F4262479D000EE8550 /* ContentView.swift in Sources */,
 				A0CAC89F26248E62001E8ADC /* OnboardingView.swift in Sources */,
 				A0CAC8A426249010001E8ADC /* FruitModel.swift in Sources */,
