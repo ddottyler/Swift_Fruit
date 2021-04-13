@@ -1,3 +1,9 @@
+This directory comes from SwiftUI Masterclass. 
+
+I have adapted it by removing the completed folder. 
+
+My programme has been created within the Students folder. 
+
 IOS 14 APP WITH SWIFTUI 2
 Dear App Developer,
 
