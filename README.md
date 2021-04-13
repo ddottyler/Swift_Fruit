@@ -8,8 +8,19 @@ I have followed a tutorial which can be [found here](https://www.youtube.com/wat
 
 **How to run the project** 
 
-TBC
+note - you will need xcode to open this project. 
+
+Clone this repo.
+
+Open SwiftFruits/Students/Fructus
+
+Open Fructus.xcodeproj
+
+Click the play button on the top left corner of Xcode to run a simulated version of the app. 
 
 **Project in action** 
 
-TBC 
+<img src='./public/homescreen.png'/>
+<img src='./public/listview.png'/>
+<img src='./public/settingsview.png'/>
+<img src='./public/detailview.png'/>
