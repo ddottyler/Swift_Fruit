@@ -42,12 +42,13 @@ struct SettingsView_view: View {
                     GroupBox(
                         label: SettingsLabelView(labelText: "Application", labelImage: "apps.iphone")
                     ){
-                        Divider().padding(.vertical, 4)
-                        HStack {
-                            Text("Developer").foregroundColor(Color.gray)
-                            Spacer()
-                            Text("Dan")
-                        }
+                        SettingsRowView(name: "Developer", content: "Dan Tyler")
+                        SettingsRowView(name: "Designer", content: "Robert Petras")
+                        SettingsRowView(name: "Compatiblity", content: "iOS")
+                        SettingsRowView(name: "Website", linkLabel: "SwiftUI Masterclass", linkDestination: "swiftuimasterclass.com")
+                        SettingsRowView(name: "GitHub", linkLabel: "ddottyler/github", linkDestination: "https://github.com/ddottyler")
+                        SettingsRowView(name: "SwiftUI", content: "2.0")
+                        SettingsRowView(name: "Version", content: "1.1.0")
                     } //: BOX
                     
                     
