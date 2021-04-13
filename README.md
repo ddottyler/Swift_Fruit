@@ -20,7 +20,7 @@ Click the play button on the top left corner of Xcode to run a simulated version
 
 **Project in action** 
 
-<img src='./Screenshots/homescreen.png'/>
-<img src='./Screenshots/listview.png'/>
-<img src='./Screenshots/settingsview.png'/>
-<img src='./Screenshots/detailview.png'/>
+<img src='./public/homescreen.png'/>
+<img src='./public/listview.png'/>
+<img src='./public/settingsview.png'/>
+<img src='./public/detailview.png'/>
